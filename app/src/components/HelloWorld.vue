@@ -6,12 +6,7 @@
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
-<<<<<<< HEAD
-    <p>
-      Now, this is the change I've made in this branch
-    </p>
-=======
->>>>>>> origin
+    <h1> some text </h1>
   </div>
 </template>
 
