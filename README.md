@@ -1,2 +1,2 @@
 # tutorial
-For testing git commands commands
+For testing git commands
